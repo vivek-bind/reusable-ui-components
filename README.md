@@ -1,5 +1,5 @@
 Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/vivek-bind/agency-website.git
 
 📂 Navigate to Project Folder
 cd your-repo-name
